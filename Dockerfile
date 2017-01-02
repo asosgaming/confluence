@@ -1,5 +1,5 @@
-FROM blacklabelops/java:jre8
-MAINTAINER Steffen Bleul <sbl@blacklabelops.com>
+FROM asos/java:jre8
+MAINTAINER Steffen Bleul <sbl@asos.com>
 
 ARG CONFLUENCE_VERSION=6.0.2
 # permissions
