@@ -1,5 +1,5 @@
-FROM asos/java:jre8
-MAINTAINER Steffen Bleul <sbl@asos.com>
+FROM asos/openjdk8
+MAINTAINER Louran <louran@asosgaming.com>
 
 ARG CONFLUENCE_VERSION=6.0.2
 # permissions
